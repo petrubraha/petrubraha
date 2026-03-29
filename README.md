@@ -1,8 +1,5 @@
 ## Future
 
-- **Cloud Architect**: I would love to be responsible for designing secure, scalable, and high-performance cloud infrastructures.
-- **Machine Learning Engineer**: Pioneering predictive models and advancing the field of data science through innovative AI applications.
-
 ## Present
 
 Enthusiastic, analytical and sociable - these are the features that define me. Every day I train my skills, becoming more and more efficient and disciplined when programming. I enjoy understanding concepts in depth and finding effective solutions to complex problems. Currently, I am working on projects, solving technical challenges and actively collaborating in diverse development teams. My objective? To get involved in the AI race and be responsible for running it. I am determined to continuously develop myself and build reliable software with real-world applications.
@@ -11,29 +8,17 @@ Enthusiastic, analytical and sociable - these are the features that define me. E
 
 ### Organizations
 
-These represent a way of grouping related repositories, most of them composing distributed systems through both collaborative and individual effort.
-
-Explore them
-
 #### [FII](https://github.com/FII-Stack)
 
 #### [Fluxo](https://github.com/Fluxo-Stack)
 
 #### [InAndOut](https://github.com/InAndOut-Stack)
 
-Led a team of five developers in building a high-performance routing and logistics service, focused on speed, efficiency, and real-time data processing.
-
 #### [E3-GiftHub](https://github.com/E3-GiftHub)
-
-Served as the Product Owner for a team of 22 developers, steering the creation of a comprehensive platform designed to streamline and personalize the gifting experience.
 
 #### [petrubraha-prototypes](https://github.com/petrubraha-prototypes)
 
-A dedicated space for experimentation. This collection of prototypes represents my iterative approach to engineering—where every success and failure contributes to my growth. I failed a lot.
-
 #### [petrubraha-classes](https://github.com/petrubraha-classes)
-
-A complete archive of my university coursework.
 
 ### Expertise
 
