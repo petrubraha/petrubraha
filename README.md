@@ -19,22 +19,22 @@ My software lives inside organizations. They represent a way of grouping related
 
 ### [E3-GiftHub](https://github.com/E3-GiftHub) 🏆
 
-**Role**: Product Owner (22 developers)
+**Role**: Product Owner (22 developers)  
 **Project**: Gift planning platform. Winner of the _Learn&Earn_ competition.
 
 ### [InAndOut](https://github.com/InAndOut-Stack) 🛒
 
-**Focus**: Logistics optimization designed to minimize time spent shopping.
+**Focus**: Logistics optimization designed to minimize time spent shopping.  
 _Status: In Development_
 
 ### [Fluxo](https://github.com/Fluxo-Stack) 🛎️
 
-**Project**: "Call A Waiter" platform for streamlined service management.
+**Project**: "Call A Waiter" platform for streamlined service management.  
 _Status: In Development_
 
 ### [FII](https://github.com/FII-Stack) 🎓
 
-**Project**: My Bachelor's thesis and associated academic infrastructure.
+**Project**: My Bachelor's thesis and associated academic infrastructure.  
 _Status: In Development_
 
 ### [Coursework](https://github.com/petrubraha-classes) 📚
