@@ -1,45 +1,41 @@
-# Introduction
+## Future
 
-I solve problems, collaborate, and explore real-world contributions. I am continuously building, training my skills. My current focus is to find real problems and solve them.
+- **Cloud Architect**: I would love to be responsible for designing secure, scalable, and high-performance cloud infrastructures.
+- **Machine Learning Engineer**: Pioneering predictive models and advancing the field of data science through innovative AI applications.
 
-## My work
+## Present
 
-So far my work consists in university assignments and some personal projects. Their goal was primarly to learn the tools. I want to take all the gained experience and deploy it to concrete scenarios. Looking forward to permanently exit the sandbox.
+Enthusiastic, analytical and sociable - these are the features that define me. Every day I train my skills, becoming more and more efficient and disciplined when programming. I enjoy understanding concepts in depth and finding effective solutions to complex problems. Currently, I am working on projects, solving technical challenges and actively collaborating in diverse development teams. My objective? To get involved in the AI race and be responsible for running it. I am determined to continuously develop myself and build reliable software with real-world applications.
 
-I've been consistently coding by hand. Horrible code. But I think that the mess produced is a foundation to build upon.
+## Past
 
-Interested in exploring my learning approch? Thruought my university years I've tried to gain as much experience as possible. Besides that I documented all my activity. Really. All of it.
+### Organizations
 
-### Big Projects
+These represent a way of grouping related repositories, most of them composing distributed systems through both collaborative and individual effort.
 
-These are multi-server applications I've built that all compose a distributed system. Monorepo felt like a cheet. Splitting the bussiness logic was always my way to go. Each of these large system have dedicated organizations where all of their source code can be explored.
+Explore them
 
-- FII
-- Fluxo
-- InAndOut
+#### [FII](https://github.com/FII-Stack)
 
-### petrubraha-prototypes
+#### [Fluxo](https://github.com/Fluxo-Stack)
 
-Not so large scale projects. These were my attempt to tackle easy problems. This organization represent a collection of many failed projects.0D1B2A
+#### [InAndOut](https://github.com/InAndOut-Stack)
 
-Some of them succeded:
+Led a team of five developers in building a high-performance routing and logistics service, focused on speed, efficiency, and real-time data processing.
 
-The others didn't.
+#### [E3-GiftHub](https://github.com/E3-GiftHub)
 
-### petrubraha-classes
+Served as the Product Owner for a team of 22 developers, steering the creation of a comprehensive platform designed to streamline and personalize the gifting experience.
 
-A collection of
+#### [petrubraha-prototypes](https://github.com/petrubraha-prototypes)
 
-twsting the langugages to their limits. Ocasioanlly making experiments NOT taking course work information to granted. Some of them have a lot of effort. Some are just to pass.
+A dedicated space for experimentation. This collection of prototypes represents my iterative approach to engineering—where every success and failure contributes to my growth. I failed a lot.
 
-## Areas
+#### [petrubraha-classes](https://github.com/petrubraha-classes)
 
-Currently learining:
+A complete archive of my university coursework.
 
-- machine learning
-- low-level programming
-
-### Expertise (💣do not press the badges from below!💣)
+### Expertise
 
 [![Java](https://img.shields.io/badge/java-E0E1DD.svg?style=for-the-badge&logo=openjdk&logoColor=black)](https://github.com/InAndOut-Stack/InAndOut-Route-Service)
 [![Python](https://img.shields.io/badge/python-E0E1DD.svg?style=for-the-badge&logo=python&logoColor=black)](https://github.com/petrubraha-prototypes/RC-application)
