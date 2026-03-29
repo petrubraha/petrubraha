@@ -11,8 +11,6 @@ Enthusiastic, analytical, and collaborative. I focus on refining my skills daily
 
 I enjoy deep-diving into complex concepts to find elegant solutions. My current objective is to contribute to the AI race by building reliable, large-scale software with real-world applications.
 
----
-
 ## 🏛️ Portfolio
 
 My software lives inside organizations. They represent a way of grouping related repositories, most of them composing distributed systems through both collaborative and individual effort.
