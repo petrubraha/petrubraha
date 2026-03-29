@@ -1,3 +1,5 @@
+# Status
+
 ## Future
 
 - **Cloud Architect**: I would love to design secure, scaleale and perfomant infrastructures.
@@ -7,37 +9,37 @@
 
 Enthusiastic, analytical and sociable - these are the features that define me. Every day I train my skills, becoming more and more efficient and disciplined when programming. I enjoy understanding concepts in depth and finding effective solutions to complex problems. Currently, I am working on projects, solving technical challenges and actively collaborating in diverse development teams. My objective? To get involved in the AI race and be responsible for running it. I am determined to continuously develop myself and build reliable software with real-world applications.
 
-## Past
+# Past
 
-### Organizations
+## Organizations
 
 These represent a way of grouping related repositories, most of them composing distributed systems through both collaborative and individual effort.
 
-#### [FII](https://github.com/FII-Stack)
+### [FII](https://github.com/FII-Stack)
 
 Bachelor's thesis. In development.
 
-#### [Fluxo](https://github.com/Fluxo-Stack)
+### [Fluxo](https://github.com/Fluxo-Stack)
 
 "Call A Waiter" platform. In development.
 
-#### [InAndOut](https://github.com/InAndOut-Stack)
+### [InAndOut](https://github.com/InAndOut-Stack)
 
 Minimize time spent shopping. In development.
 
-#### [E3-GiftHub](https://github.com/E3-GiftHub)
+### [E3-GiftHub](https://github.com/E3-GiftHub)
 
 Product Owner. 22 developers. Learn&Earn winner. Gift recommendation platform.
 
-#### [petrubraha-prototypes](https://github.com/petrubraha-prototypes)
+### [petrubraha-prototypes](https://github.com/petrubraha-prototypes)
 
 Space of experiments and failed initiatives.
 
-#### [petrubraha-classes](https://github.com/petrubraha-classes)
+### [petrubraha-classes](https://github.com/petrubraha-classes)
 
 Archive of my university coursework.
 
-### Expertise
+## Expertise
 
 [![Java](https://img.shields.io/badge/java-E0E1DD.svg?style=for-the-badge&logo=openjdk&logoColor=black)](https://github.com/InAndOut-Stack/InAndOut-Route-Service)
 [![Python](https://img.shields.io/badge/python-E0E1DD.svg?style=for-the-badge&logo=python&logoColor=black)](https://github.com/petrubraha-prototypes/RC-application)
