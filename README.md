@@ -1,45 +1,51 @@
-# Status
+## ⚡ Status
 
-## Future
+### Future
 
-- **Cloud Architect**: I would love to design secure, scaleale and perfomant infrastructures.
-- **Machine Learning Engineer**: I find data driven software important, and a challenge which I want to take on.
+- **Cloud Architect**: Passionate about designing secure, scalable, and high-performance infrastructures.
+- **Machine Learning Engineer**: Driven to solve the unique challenges of building data-driven software and intelligent systems.
 
-## Present
+### Present
 
-Enthusiastic, analytical and sociable - these are the features that define me. Every day I train my skills, becoming more and more efficient and disciplined when programming. I enjoy understanding concepts in depth and finding effective solutions to complex problems. Currently, I am working on projects, solving technical challenges and actively collaborating in diverse development teams. My objective? To get involved in the AI race and be responsible for running it. I am determined to continuously develop myself and build reliable software with real-world applications.
+Enthusiastic, analytical, and collaborative. I focus on refining my skills daily, striving for greater discipline and efficiency in my engineering process.
 
-# Past
+I enjoy deep-diving into complex concepts to find elegant solutions. My current objective is to contribute to the AI race by building reliable, large-scale software with real-world applications.
 
-## Organizations
+---
 
-These represent a way of grouping related repositories, most of them composing distributed systems through both collaborative and individual effort.
+## 🏛️ Portfolio
 
-### [FII](https://github.com/FII-Stack)
+My software lives inside organizations. They represent a way of grouping related repositories, most of them composing distributed systems through both collaborative and individual effort.
 
-Bachelor's thesis. In development.
+### [E3-GiftHub](https://github.com/E3-GiftHub) 🏆
 
-### [Fluxo](https://github.com/Fluxo-Stack)
+**Role**: Product Owner (22 developers)
+**Project**: Gift planning platform. Winner of the _Learn&Earn_ competition.
 
-"Call A Waiter" platform. In development.
+### [InAndOut](https://github.com/InAndOut-Stack) 🛒
 
-### [InAndOut](https://github.com/InAndOut-Stack)
+**Focus**: Logistics optimization designed to minimize time spent shopping.
+_Status: In Development_
 
-Minimize time spent shopping. In development.
+### [Fluxo](https://github.com/Fluxo-Stack) 🛎️
 
-### [E3-GiftHub](https://github.com/E3-GiftHub)
+**Project**: "Call A Waiter" platform for streamlined service management.
+_Status: In Development_
 
-Product Owner. 22 developers. Learn&Earn winner. Gift recommendation platform.
+### [FII](https://github.com/FII-Stack) 🎓
 
-### [petrubraha-prototypes](https://github.com/petrubraha-prototypes)
+**Project**: My Bachelor's thesis and associated academic infrastructure.
+_Status: In Development_
 
-Space of experiments and failed initiatives.
+### [Coursework](https://github.com/petrubraha-classes) 📚
 
-### [petrubraha-classes](https://github.com/petrubraha-classes)
+A comprehensive archive of my university assignments and language experiments.
 
-Archive of my university coursework.
+### [Prototypes](https://github.com/petrubraha-prototypes) 🧪
 
-## Expertise
+A dedicated space for rapid experimentation, failed initiatives, and technical lessons learned.
+
+## 🛠️ Technical Expertise
 
 [![Java](https://img.shields.io/badge/java-E0E1DD.svg?style=for-the-badge&logo=openjdk&logoColor=black)](https://github.com/InAndOut-Stack/InAndOut-Route-Service)
 [![Python](https://img.shields.io/badge/python-E0E1DD.svg?style=for-the-badge&logo=python&logoColor=black)](https://github.com/petrubraha-prototypes/RC-application)
