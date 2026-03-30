@@ -15,7 +15,7 @@ I enjoy deep-diving into complex concepts to find elegant solutions. My current 
 
 My software lives inside organizations. They represent a way of grouping related repositories, most of them composing distributed systems through both collaborative and individual effort.
 
-### [E3-GiftHub](https://github.com/E3-GiftHub) 🏆
+### [GiftHub](https://github.com/E3-GiftHub) 🏆
 
 **Role**: Product Owner (22 developers)  
 **Project**: Gift planning platform. Winner of the _Learn&Earn_ competition.
