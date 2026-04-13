@@ -7,7 +7,7 @@ Simpler projects consist of only one repository and can be explored directly on 
 | Id  | Organization                                           | Status                                   |
 | :-: | :----------------------------------------------------- | :--------------------------------------- |
 | 🏆  | [GiftHub](https://github.com/E3-GiftHub)               | Winner of the **Learn&Earn** competition |
-| 🛒  | [InAndOut](https://github.com/InAndOut-Stack)          | In Development                           |
+| 🛒  | [InAndOut](https://github.com/inandout-stack)          | In Development                           |
 | 🛎️  | [Fluxo](https://github.com/fluxo-stack)                | Abandoned                                |
 | 🎓  | [FII](https://github.com/FII-Stack)                    | In Development                           |
 | 📚  | [Classes](https://github.com/petrubraha-classes)       | University Assignments                   |
